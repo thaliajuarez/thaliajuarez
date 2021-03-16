@@ -1,5 +1,7 @@
 ### Hi there
+
 ![Alt Text](https://media2.giphy.com/media/J2yDvX0N4GpAdHOD3N/giphy.gif?cid=ecf05e4732fecy7p8iauk3qv6wrz5awzkzmwe846do1i8h6n&rid=giphy.gif)
+
 [Artist: shiancore](https://www.instagram.com/shiancore/)
 <!--
 **thaliajuarez/thaliajuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
