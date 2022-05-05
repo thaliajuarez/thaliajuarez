@@ -1,25 +1,13 @@
 <p align="center">
   <img src=https://media2.giphy.com/media/J2yDvX0N4GpAdHOD3N/giphy.gif?cid=ecf05e4732fecy7p8iauk3qv6wrz5awzkzmwe846do1i8h6n&rid=giphy.gif>
 </p>
-  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/>
-</p>
 
-[GIF Artist: shiancore](https://www.instagram.com/shiancore/)
+
+**Hiya, I'm Thalia.** 😄
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thalia-juarez/)
 
 <!--
-
 **thaliajuarez/thaliajuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on 
@@ -30,5 +18,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
+
+- 🔭 I’m currently working on storing and accessing lots of data efficiently.
+- 🌱 I’m currently learning C#
+- 🤔 I’m looking for help with system and database design.
+- ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour no matter how high they are when they begin their descent.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliajuarez&layout=compact&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.instagram.com/shiancore/"> GIF created by shiancore </a>
+
