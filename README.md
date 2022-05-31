@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on storing and accessing lots of data efficiently.
+- 🔭 I’m currently working on improving user experiences.
 - 🌱 I’m currently learning C#
-- 🤔 I’m looking for help with system and database design.
-- ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour no matter how high they are when they begin their descent.
+- ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliajuarez&layout=compact&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
