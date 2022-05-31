@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on improving user experiences.
+- 🔭 I’m currently working on UI/UX.
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour.
 
