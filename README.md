@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliajuarez&layout=compact&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliajuarez&layout=compact&show_icons=true&theme=discord_old_blurple&langs_count=8)
 
 <a href="https://www.instagram.com/shiancore/"> GIF created by shiancore </a>
 
