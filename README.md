@@ -1,11 +1,16 @@
-<p align="center">
+<!-- <p align="center">
   <img src=https://media2.giphy.com/media/J2yDvX0N4GpAdHOD3N/giphy.gif?cid=ecf05e4732fecy7p8iauk3qv6wrz5awzkzmwe846do1i8h6n&rid=giphy.gif>
-</p>
+</p> -->
 
+
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/thaliajuarez/thaliajuarez/main/images/unnamed.png" />
+</p>
 
 **Hiya, I'm Thalia.** 😄
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thalia-juarez/)
+
 
 <!--
 **thaliajuarez/thaliajuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliajuarez&layout=compact&show_icons=true&langs_count=10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliajuarez&show_icons=true&hide=stars&count_private=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliajuarez&show_icons=true&hide=stars&count_private=true) -->
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaliajuarez)
 
