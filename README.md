@@ -1,11 +1,11 @@
-<!-- <p align="center">
+<p align="center">
   <img src=https://media2.giphy.com/media/J2yDvX0N4GpAdHOD3N/giphy.gif?cid=ecf05e4732fecy7p8iauk3qv6wrz5awzkzmwe846do1i8h6n&rid=giphy.gif>
-</p> -->
-
-
-<p align="middle">
-  <img src="https://raw.githubusercontent.com/thaliajuarez/thaliajuarez/main/images/unnamed.png" />
 </p>
+
+
+<!-- <p align="middle">
+  <img src="https://raw.githubusercontent.com/thaliajuarez/thaliajuarez/main/images/unnamed.png" />
+</p> -->
 
 **Hiya, I'm Thalia.** 😄
 
