@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🔭 I’m currently working on UI/UX.
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour.
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
