@@ -31,5 +31,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+Python   2 hrs 34 mins   ███████████████████░░░░░░   76.66 %
+HTML     32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+INI      13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
+
 <!--END_SECTION:waka-->
 
