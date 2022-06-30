@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 mins          ██████████░░░░░░░░░░░░░░░   39.76 %
-HTML     5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Other    3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+C#       1 hr 36 mins    ███████████████████████░░   92.08 %
+XML      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
