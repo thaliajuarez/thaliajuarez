@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 25 mins   ███████████████████░░░░░░   75.82 %
-Other        1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+JavaScript   5 hrs 55 mins   ██████████████████▒░░░░░░   72.67 %
+Other        1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
 ```
 
 <!--END_SECTION:waka-->
