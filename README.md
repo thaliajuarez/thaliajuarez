@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 25 mins    ███████████████████████▓░   95.31 %
-C#           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   1 hr 25 mins    ███████████████████████░░   91.47 %
+C#           7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
