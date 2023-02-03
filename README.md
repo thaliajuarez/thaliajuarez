@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#      52 mins         ████████████████████████▓   98.62 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+C#   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
