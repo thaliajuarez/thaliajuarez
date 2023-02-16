@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Binary       1 hr 56 mins    ███████████▓░░░░░░░░░░░░░   46.43 %
-C#           1 hr 49 mins    ███████████░░░░░░░░░░░░░░   43.84 %
-Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+C#           2 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.18 %
+Binary       1 hr 56 mins    ██████████▒░░░░░░░░░░░░░░   41.79 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
