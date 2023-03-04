@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#           1 hr 38 mins    ██████████████████████▓░░   91.19 %
-Binary       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-PowerShell   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+C#           27 mins         ██████████████████▓░░░░░░   75.22 %
+Binary       7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+PowerShell   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
