@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 24 mins    ██████████████████████▒░░   89.58 %
-C#         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Markdown   1 hr 24 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
