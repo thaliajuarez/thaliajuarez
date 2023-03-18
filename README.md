@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#           39 mins         ████████████████▒░░░░░░░░   64.86 %
-JavaScript   21 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
