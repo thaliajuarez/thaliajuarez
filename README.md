@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-XML      2 hrs 4 mins    ███████████████░░░░░░░░░░   60.12 %
-Binary   48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-Other    33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
