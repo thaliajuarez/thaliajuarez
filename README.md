@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XML      14 mins         ███████████████▒░░░░░░░░░   60.97 %
+C#       5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Binary   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Other    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
