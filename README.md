@@ -30,14 +30,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Raindrops fall between 15 and 25 miles per hour.
 -->
 
-<!--START_SECTION:waka-->
-
-```text
-C#       23 mins         █████████████████████░░░░   84.35 %
-Binary   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-CSHTML   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
